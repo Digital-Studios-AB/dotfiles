@@ -1,4 +1,5 @@
 # Company dotfiles
 
 [.prettierrc](.prettierrc.yaml)
-[.eslintrc](.eslintrc.json)
+[Next Eslint](/next/.eslintrc.json)
+[React Eslint](/react/.eslintrc.json)
